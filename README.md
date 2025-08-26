@@ -14,7 +14,17 @@
 - 💬 Ask me about **React, Vue, GSAP - Web development (HTML, CSS, JS, PHP, SQL) - IoT app development & Embedded integration**
 
 - 📫 How to reach me **dineshrajupadhya86@gmail.com | https://www.linkedin.com/in/dinesh-raj-upadhya-920075206/**
+- 
+### 💼 Recent Internship Experience  
+**Mobile App Developer Intern – Ukshati Technologies Pvt. Ltd. (May 2025 – Aug 2025)**  
 
+📌 Project: **Offline Base Valve Controlling App (Smart Irrigation System)**  
+- Built an **offline-first irrigation control app** using **React Native (Expo Dev Client)** with a custom **Kotlin native module** for USB-based UART communication with STM32 controllers  
+- Developed **zone-based valve control, real-time flow & battery monitoring, and command logs**  
+- Added a **wireless control system** using **Raspberry Pi Pico W + MicroPython HTTP server** for Wi-Fi-based valve management  
+- Collaborated with hardware engineers for **LoRa & STM32 integration**  
+- **Tech Stack:** React Native, Kotlin, TypeScript, JavaScript, MicroPython, STM32, USB Serial, Expo Dev Client
+  
 <!-- 🏆 Add Trophies here -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
