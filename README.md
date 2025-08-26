@@ -14,7 +14,7 @@
 - 💬 Ask me about **React, Vue, GSAP - Web development (HTML, CSS, JS, PHP, SQL) - IoT app development & Embedded integration**
 
 - 📫 How to reach me **dineshrajupadhya86@gmail.com | https://www.linkedin.com/in/dinesh-raj-upadhya-920075206/**
-- 
+
 ### 💼 Recent Internship Experience  
 **Mobile App Developer Intern – Ukshati Technologies Pvt. Ltd. (May 2025 – Aug 2025)**  
 
