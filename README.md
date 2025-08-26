@@ -14,7 +14,7 @@
 - 💬 Ask me about **React, Vue, GSAP - Web development (HTML, CSS, JS, PHP, SQL) - IoT app development & Embedded integration**
 
 - 📫 How to reach me **dineshrajupadhya86@gmail.com | https://www.linkedin.com/in/dinesh-raj-upadhya-920075206/**
-- 
+
 <!-- 🏆 Add Trophies here -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
