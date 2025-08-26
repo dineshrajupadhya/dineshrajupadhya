@@ -14,11 +14,17 @@
 - 💬 Ask me about **React, Vue, GSAP - Web development (HTML, CSS, JS, PHP, SQL) - IoT app development & Embedded integration**
 
 - 📫 How to reach me **dineshrajupadhya86@gmail.com | https://www.linkedin.com/in/dinesh-raj-upadhya-920075206/**
-
+- 
+<!-- 🏆 Add Trophies here -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=dineshrajupadhya&theme=onedark&margin-w=15&margin-h=15" alt="trophies"/>
+  </a>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dinesh-raj-upadhya-920075206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinesh-raj-upadhya-920075206" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com//@dineshrajupadhya86/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="/@dineshrajupadhya86/" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@dineshrajupadhya86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@dineshrajupadhya86" height="30" width="40" /></a>
 <a href="https://discord.gg/dineshrajupadhya_98340" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dineshrajupadhya_98340" height="30" width="40" /></a>
 </p>
 
