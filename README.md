@@ -9,9 +9,7 @@
 
 - 🌱 I’m currently learning **- React & Vue frameworks - GSAP animations - Cloud deployment with **AWS** - Advanced **Data Structures & Algorithms****
 
--🔬 EEG Signal Preprocessing & Seizure Detection
-A project focused on cleaning noisy EEG signals using filtering and ICA, extracting features with Python (SciPy, MNE, PyEEG), and applying ML techniques for accurate seizure detection.
-
+-🔬 ✅ I previously worked on EEG Signal Analysis & Seizure Detection – built an ML pipeline for EEG preprocessing, feature extraction, and seizure prediction using Python & MNE
 - ### 🧠 EEG Signal Analysis & Seizure Detection
 Research-oriented project to detect epileptic seizures from EEG signals.  
 Built an end-to-end pipeline: raw EEG import → filtering & artifact removal (MNE) → feature extraction (time/frequency/non-linear with SciPy & PyEEG) → classical ML baselines (SVM/RandomForest) → evaluation & visualization.  
