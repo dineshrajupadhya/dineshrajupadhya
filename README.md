@@ -9,7 +9,15 @@
 
 - 🌱 I’m currently learning **- React & Vue frameworks - GSAP animations - Cloud deployment with **AWS** - Advanced **Data Structures & Algorithms****
 
-- 🤝 I’m looking for help with **[EEG Signal Analysis & Seizure Detection](#) – Leveraging **Python, MNE, SciPy, PyEEG** for medical signal preprocessing and ML tasks.**
+-🔬 EEG Signal Preprocessing & Seizure Detection
+A project focused on cleaning noisy EEG signals using filtering and ICA, extracting features with Python (SciPy, MNE, PyEEG), and applying ML techniques for accurate seizure detection.
+
+- ### 🧠 EEG Signal Analysis & Seizure Detection
+Research-oriented project to detect epileptic seizures from EEG signals.  
+Built an end-to-end pipeline: raw EEG import → filtering & artifact removal (MNE) → feature extraction (time/frequency/non-linear with SciPy & PyEEG) → classical ML baselines (SVM/RandomForest) → evaluation & visualization.  
+**Stack:** Python, MNE, SciPy, NumPy, PyEEG, scikit-learn, Matplotlib  
+**Focus:** Robust preprocessing, reproducible experiments, clean visualizations.
+
 
 - 💬 Ask me about **React, Vue, GSAP - Web development (HTML, CSS, JS, PHP, SQL) - IoT app development & Embedded integration**
 
@@ -26,9 +34,11 @@
 - **Tech Stack:** React Native, Kotlin, TypeScript, JavaScript, MicroPython, STM32, USB Serial, Expo Dev Client
   
 <!-- 🏆 Add Trophies here -->
+<!-- 🏆 GitHub Trophies -->
+<h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dineshrajupadhya&theme=onedark&margin-w=15&margin-h=15" alt="trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=dineshrajupadhya&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" alt="trophies"/>
   </a>
 </p>
 <h3 align="left">Connect with me:</h3>
