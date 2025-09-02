@@ -27,7 +27,8 @@ Mobile App Developer Intern @ **Ukshati Technologies (May–Aug 2025)**
 ---
 
 ## 🛠️ Tech Stack  
-**Frontend:** ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-blue?logo=react) ![Vue](https://img.shields.io/badge/Vue.js-42b883?logo=vue.js&logoColor=white)  
+**Frontend:** ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-blue?logo=react) ![Vue](https://img.shields.io/badge/Vue.js-42b883?logo=vue.js&logoColor=white)  ![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB)
+
 
 **Backend:** ![PHP](https://img.shields.io/badge/PHP-777bb4?logo=php&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-black?logo=express&logoColor=white)  
 
