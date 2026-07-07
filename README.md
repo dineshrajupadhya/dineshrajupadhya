@@ -1,6 +1,6 @@
 # Hi 👋, I'm Dinesh Raj Upadhya  
 ### Full Stack & Frontend Developer | MCA Student  
-
+<img decoding="async" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=dineshrajupadhya&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=dineshrajupadhya&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> 
 </p>
