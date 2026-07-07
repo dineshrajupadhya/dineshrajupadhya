@@ -10,6 +10,17 @@
 🔭 **Currently working on:**  
 [Cafeteria Management System](#) – A web app for managing college cafeteria orders and inventory using **HTML, CSS, JavaScript, Bootstrap, and PHP**  
 
+## 🚀 Featured Project
+
+### 🍽️ Contactless Food Ordering System
+
+A responsive web application that enables users to browse menus, place contactless food orders, manage carts, and streamline the ordering experience.
+
+**Tech Stack:** HTML, CSS, JavaScript, Bootstrap, PHP, MySQL
+
+🔗 **Live Demo:** https://cafe-ordering-953.netlify.app
+
+💻 **GitHub Repository:** https://github.com/dineshrajupadhya/YOUR-REPOSITORY-NAME
 🌱 **Currently learning:**  
 React, Vue.js, GSAP animations, Cloud deployment (AWS), Advanced Data Structures & Algorithms  
 
