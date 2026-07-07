@@ -41,16 +41,9 @@ Mobile App Developer Intern @ **Ukshati Technologies (May–Aug 2025)**
 
 ## 📊 GitHub Stats  
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=dineshrajupadhya&show_icons=true&theme=tokyonight"
-    height="170"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshrajupadhya&layout=compact&theme=tokyonight"
+    src="https://ghstats.dev/api/card?username=dineshrajupadhya&theme=tokyonight"
     height="170"
   />
 </p>
